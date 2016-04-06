@@ -1,0 +1,5 @@
+#canvas {
+	display: block;
+	margin: 50px auto;
+	box-shadow: -1px -1px 1px #ccc, 2px 2px 2px #999;
+}
